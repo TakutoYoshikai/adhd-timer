@@ -1,0 +1,23 @@
+{
+  "name": "adhd-timer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TakutoYoshikai/adhd-timer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TakutoYoshikai/adhd-timer/issues"
+  },
+  "homepage": "https://github.com/TakutoYoshikai/adhd-timer#readme",
+  "dependencies": {
+    "node-cron": "^3.0.0"
+  }
+}
