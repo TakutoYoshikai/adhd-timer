@@ -19,7 +19,7 @@ ADHDTimer([
 ], [
   //process names that you want to kill
   "firefox",
-]
+]);
 ```
 
 ### License
