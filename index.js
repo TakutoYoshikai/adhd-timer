@@ -11,7 +11,9 @@ function ADHDTimer(tasks, processes) {
       for(const proc of processes) {
         kill(proc);
       }
-      task.callback();
+      if (task.callback) {
+        task.callback();
+      }
     });
   }
 }
