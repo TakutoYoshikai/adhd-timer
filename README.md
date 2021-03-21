@@ -17,7 +17,7 @@ ADHDTimer([
     callback: function() {}
   }
 ], [
-  //process names that you want to kill
+  //process names that you want to kill when the timer notices.
   "firefox",
 ]);
 ```
