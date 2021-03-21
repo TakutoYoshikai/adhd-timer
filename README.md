@@ -1,5 +1,5 @@
 # adhd-timer
-This is a timer library for ADHD people. Specific processes are killed when the timer sounds.
+This is a timer library for ADHD people. Specific processes are killed when the timer notices.
 
 ### Usage
 **install**
@@ -19,7 +19,7 @@ ADHDTimer([
 ], [
   //process names that you want to kill
   "firefox",
-]
+]);
 ```
 
 ### License
