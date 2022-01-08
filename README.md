@@ -1,6 +1,12 @@
 # adhd-timer
 This is a timer library for ADHD people. Specific processes are killed when the timer notices.
 
+### Requirements
+* macOS or Ubuntu
+* npm
+* Node.js
+
+
 ### Usage
 **install**
 ```bash
